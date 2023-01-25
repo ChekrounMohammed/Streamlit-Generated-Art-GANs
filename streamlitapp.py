@@ -50,7 +50,7 @@ if choice == 'ART2':
 
 
 st.sidebar.markdown(
-    "Get the Source Code [here](https://github.com/SuyashSonawane?tab=repositories)",
+    "Get the Source Code [here](https://github.com/ChekrounMohammed/Streamlit-Generated-Art-GANs)",
     unsafe_allow_html=True,
 )
 
